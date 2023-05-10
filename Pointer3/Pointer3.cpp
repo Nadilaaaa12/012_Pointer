@@ -14,5 +14,7 @@ public:
 class siswa {
 private:
 	int id;
+public:
+	void setId(int pId);
 };
 
