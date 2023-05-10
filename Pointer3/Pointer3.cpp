@@ -29,6 +29,11 @@ void siswa::displayAll(orang& a) {
 }
 
 void orang::setNama(string pNama) {
+	nama = pNama;
+}
 
+int main()
+{
+	orang o;
 }
 
