@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer3", "Pointer3\Pointe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendclass4", "friendclass4\friendclass4.vcxproj", "{695FC71A-C586-4A1F-AA9D-329B8E5327C8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendclass5", "friendclass5\friendclass5.vcxproj", "{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{695FC71A-C586-4A1F-AA9D-329B8E5327C8}.Release|x64.Build.0 = Release|x64
 		{695FC71A-C586-4A1F-AA9D-329B8E5327C8}.Release|x86.ActiveCfg = Release|Win32
 		{695FC71A-C586-4A1F-AA9D-329B8E5327C8}.Release|x86.Build.0 = Release|Win32
+		{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}.Debug|x64.ActiveCfg = Debug|x64
+		{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}.Debug|x64.Build.0 = Debug|x64
+		{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}.Debug|x86.ActiveCfg = Debug|Win32
+		{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}.Debug|x86.Build.0 = Debug|Win32
+		{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}.Release|x64.ActiveCfg = Release|x64
+		{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}.Release|x64.Build.0 = Release|x64
+		{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}.Release|x86.ActiveCfg = Release|Win32
+		{45A96383-BD1F-4157-8CC8-0C3F0E61C23E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
